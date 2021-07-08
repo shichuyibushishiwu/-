@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Beginning", "01-Beginning", "{7673701E-1E35-48E3-A44B-E6237F950DC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Medium", "02-Medium", "{893FD697-D117-4ED5-9409-2C0B7322A69C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-High", "03-High", "{EDD4ABC9-85BB-456B-A851-DF2DF3FCA83A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Advanced", "04-Advanced", "{EEFEA0B9-674F-467E-ACC7-9C830542417A}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
