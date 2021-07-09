@@ -11,9 +11,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-High", "03-High", "{EDD4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Advanced", "04-Advanced", "{EEFEA0B9-674F-467E-ACC7-9C830542417A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStartUp", "AppStartUp\AppStartUp.csproj", "{14DA8872-F97C-4C22-B4C2-C1B29F8EBBA1}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DA8872-F97C-4C22-B4C2-C1B29F8EBBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DA8872-F97C-4C22-B4C2-C1B29F8EBBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DA8872-F97C-4C22-B4C2-C1B29F8EBBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DA8872-F97C-4C22-B4C2-C1B29F8EBBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14DA8872-F97C-4C22-B4C2-C1B29F8EBBA1} = {7673701E-1E35-48E3-A44B-E6237F950DC1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B762FF1F-162C-4C95-BFB0-68877E851E50}
