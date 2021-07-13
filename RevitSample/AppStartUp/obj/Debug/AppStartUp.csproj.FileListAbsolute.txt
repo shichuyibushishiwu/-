@@ -1,0 +1,5 @@
+H:\Github\RevitSample\AppStartUp\bin\Debug\AppStartUp.dll
+H:\Github\RevitSample\AppStartUp\bin\Debug\AppStartUp.pdb
+H:\Github\RevitSample\AppStartUp\obj\Debug\AppStartUp.csproj.CoreCompileInputs.cache
+H:\Github\RevitSample\AppStartUp\obj\Debug\AppStartUp.dll
+H:\Github\RevitSample\AppStartUp\obj\Debug\AppStartUp.pdb
